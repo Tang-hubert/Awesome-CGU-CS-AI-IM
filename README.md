@@ -183,39 +183,10 @@
 ## Resource
 | Type                   | Link                                                                                                  |
 |------------------------|-------------------------------------------------------------------------------------------------------|
-| Programmering          | <ul><li>[拯救資工系學生的基本素養](https://www.youtube.com/playlist?list=PLCOCSTovXmudP_dZi1T9lNHLOtqpK9e2P)</li>        |
-|                        | <li>[W3Schools](https://www.w3schools.com/)</li>                                                              |
-|                        | <li>[GreeksforGreeks](https://www.geeksforgeeks.org/)</li>                                                  |
-|                        | <li>[C++ Tutorials](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)</li>           |
-|                        | <li>[100 days challenge for HTML & css](https://100dayscss.com/about/)</li>                                |
-|                        | <li>[Freecodecamp](https://www.freecodecamp.org/)</li>                                                      |
-| Competition Programming | <li>[LeetCode](https://leetcode.com/)</li>                                                                   |
-|                        | <li>[建議刷題策略 (中文版)](https://github.com/youngyangyang04/leetcode-master)</li>                            |
-|                        | <li>[LeetCode Repository](https://github.com/wisdompeak/LeetCode)</li>                                      |
-|                        | <li>[Kaggle](https://www.kaggle.com/)</li>                                                                  |
-|                        | <li>[CodeForce](https://codeforces.com/)</li>                                                              |
-|                        | <li>[HackerRank](https://www.hackerrank.com/)</li>                                                         |
-| Note                   | <li>[HackMD](https://hackmd.io/?nav=overview)</li>                                                          |
-|                        | <li>[Notion](https://www.notion.so/login)</li>                                                              |
-|                        | <li>[GitBook](https://www.gitbook.com/)</li>                                                               |
-| Task Management        | <li>[Mathpix Snip](https://mathpix.com/?fbclid=IwAR2ADQlY3ey3nkj9kYLfPKZUV1J1SJ86nqVCb_4D5M3aOOlas07duhnAuBI)</li> |
-|                        | <li>[draw.io](https://app.diagrams.net/)</li>                                                               |
-|                        | <li>[Canva](https://www.canva.com/)</li>                                                                   |
-|                        | <li>[Trello](https://trello.com/zh-Hant)</li>                                                              |
-| Linux                  | <li>[jserv Linux 課程](http://wiki.csie.ncku.edu.tw/linux/schedule)</li>                                     |
-|                        | <li>[jserv YT](https://www.youtube.com/c/GUTS4tech)</li>                                                   |
-| 資工六科筆記 (wjungle) | <li>[資料結構](https://www.dropbox.com/s/p9j0wd1hwahum3y/ds.pdf?dl=0)</li>                                  |
-|                        | <li>[演算法](https://www.dropbox.com/s/h3ycri4pvqf6qql/algo.pdf?dl=0)</li>                                   |
-|                        | <li>[計算機結構](https://www.dropbox.com/s/ybfuup32er26jrx/co.pdf?dl=0)</li>                                |
-|                        | <li>[作業系統](https://www.dropbox.com/s/54dfu3i96ifff1y/os.pdf?dl=0)</li>                                  |
-|                        | <li>[離散數學](https://www.dropbox.com/s/4ikspk1snut82aw/dm.pdf?dl=0)</li>                                 |
-|                        | <li>[線性代數](https://www.dropbox.com/s/1nph21mpp75b5km/la.pdf?dl=0)</li>                                 |
-| Others                 | <li>[Docker](https://hackmd.io/EHxCn4vVQaOtQK8_b2kUhQ)</li>                                                |
-|                        | <li>[StackOverflow](https://stackoverflow.com/)</li>                                                       |
-|                        | <li>[Overleaf](https://www.overleaf.com/project)</li>                                                      |
-|                        | <li>[ReadThisPaper](https://readthispaper.com/tw/)</li>                                                    |
-|                        | <li>[colab](https://colab.research.google.com/?utm_source=scs-index)</li>                                   |
-|                        | <li>[Coscup](https://coscup.org/)</li>                                                                    |
-|                        | <li>[Git learning](https://learngitbranching.js.org/?locale=zh_TW)</li>                                   |
-|                        | <li>[System Design](https://github.com/donnemartin/system-design-primer)</li>                              |
-|                        | <li>[ChatGPT](https://chat.openai.com/chat)</li>                                                           |
+| Programmering          | <ul><li>[拯救資工系學生的基本素養](https://www.youtube.com/playlist?list=PLCOCSTovXmudP_dZi1T9lNHLOtqpK9e2P)</li><li>[W3Schools](https://www.w3schools.com/)</li><li>[GreeksforGreeks](https://www.geeksforgeeks.org/)</li><li>[C++ Tutorials](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)</li><li>[100 days challenge for HTML & css](https://100dayscss.com/about/)</li><li>[Freecodecamp](https://www.freecodecamp.org/)</li></ul> |
+| Competition Programming | <ul><li>[LeetCode](https://leetcode.com/)</li><li>[建議刷題策略 (中文版)](https://github.com/youngyangyang04/leetcode-master)</li><li>[LeetCode Repository](https://github.com/wisdompeak/LeetCode)</li><li>[Kaggle](https://www.kaggle.com/)</li><li>[CodeForce](https://codeforces.com/)</li><li>[HackerRank](https://www.hackerrank.com/)</li></ul> |
+| Note                   | <ul><li>[HackMD](https://hackmd.io/?nav=overview)</li><li>[Notion](https://www.notion.so/login)</li><li>[GitBook](https://www.gitbook.com/)</li></ul> |
+| Task Management        | <ul><li>[Mathpix Snip](https://mathpix.com/?fbclid=IwAR2ADQlY3ey3nkj9kYLfPKZUV1J1SJ86nqVCb_4D5M3aOOlas07duhnAuBI)</li><li>[draw.io](https://app.diagrams.net/)</li><li>[Canva](https://www.canva.com/)</li><li>[Trello](https://trello.com/zh-Hant)</li></ul> |
+| Linux                  | <ul><li>[jserv Linux 課程](http://wiki.csie.ncku.edu.tw/linux/schedule)</li><li>[jserv YT](https://www.youtube.com/c/GUTS4tech)</li></ul> |
+| 資工六科筆記 (wjungle) | <ul><li>[資料結構](https://www.dropbox.com/s/p9j0wd1hwahum3y/ds.pdf?dl=0)</li><li>[演算法](https://www.dropbox.com/s/h3ycri4pvqf6qql/algo.pdf?dl=0)</li><li>[計算機結構](https://www.dropbox.com/s/ybfuup32er26jrx/co.pdf?dl=0)</li><li>[作業系統](https://www.dropbox.com/s/54dfu3i96ifff1y/os.pdf?dl=0)</li><li>[離散數學](https://www.dropbox.com/s/4ikspk1snut82aw/dm.pdf?dl=0)</li><li>[線性代數](https://www.dropbox.com/s/1nph21mpp75b5km/la.pdf?dl=0)</li></ul> |
+| Others                 | <ul><li>[Docker](https://hackmd.io/EHxCn4vVQaOtQK8_b2kUhQ)</li><li>[StackOverflow](https://stackoverflow.com/)</li><li>[Overleaf](https://www.overleaf.com/project)</li><li>[ReadThisPaper](https://readthispaper.com/tw/)</li><li>[colab](https://colab.research.google.com/?utm_source=scs-index)</li><li>[Coscup](https://coscup.org/)</li><li>[Git learning](https://learngitbranching.js.org/?locale=zh_TW)</li><li>[System Design](https://github.com/donnemartin/system-design-primer)</li><li>[ChatGPT](https://chat.openai.com/chat)</li></ul> |
